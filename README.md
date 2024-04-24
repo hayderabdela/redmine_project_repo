@@ -1,7 +1,5 @@
 # redmine_project_repo 
 
-This repository contains the code for the Redmine project.
-
 ## Setup Guide
 
 This guide will walk you through the process of setting up the Redmine project.
